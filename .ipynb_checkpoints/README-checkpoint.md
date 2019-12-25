@@ -33,7 +33,7 @@ When people utilize online evaluations to make decisions, they need to look at v
 
 **Other files**:
 
-1. `exploration.ipynb` - This file is just to play with data and understand the data structures if you are just starting. 
+1. `exploration.ipynb` - This file is just to play with the data and understand the data structures if you are just starting. Might as well contain some errors if you have cloned and ran directly.
 
 2. `functions.py` - Collection of functions I used in my models. Thought it would be helpful to have a separate file instead of getting lost while going through part of code.
 
